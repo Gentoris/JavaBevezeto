@@ -41,7 +41,7 @@ public class Feladat14 {
                     } else  {
                         System.out.println("A második szöveg előrébb van az ABC-ben");
                     }
-                    
+
                     break;
                 case "e":
                     System.out.print("Kérem adja meg az első kiiratandó karakter sorszámát: ");
